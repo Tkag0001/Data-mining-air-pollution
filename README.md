@@ -11,4 +11,4 @@ Report of data-mining air pollution
 - Decision tree [information](https://www.geeksforgeeks.org/decision-tree/)
 - K-nearest neighbor [information](https://www.geeksforgeeks.org/k-nearest-neighbor-algorithm-in-python/?ref=header_search)
 - Apriori [information](https://www.geeksforgeeks.org/apriori-algorithm/)
-- 
+
